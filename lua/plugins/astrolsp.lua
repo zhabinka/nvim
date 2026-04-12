@@ -22,7 +22,9 @@ return {
       "expert",
     },
     config = {},
-    handlers = {},
+    handlers = {
+      elixirls = false,
+    },
     autocmds = {
       lsp_codelens_refresh = {
         cond = "textDocument/codeLens",
