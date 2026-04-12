@@ -19,7 +19,7 @@ return {
     },
     servers = {
       "lua_ls",
-      "elixirls",
+      "lexical",
     },
     config = {},
     handlers = {},
