@@ -12,7 +12,9 @@ return {
       format_on_save = {
         enabled = true,
         allow_filetypes = {},
-        ignore_filetypes = {},
+        ignore_filetypes = {
+          "elixir",
+        },
       },
       disabled = {},
       timeout_ms = 1000,
