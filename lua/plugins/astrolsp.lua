@@ -15,7 +15,7 @@ return {
         ignore_filetypes = {},
       },
       disabled = {},
-      timeout_ms = 3000,
+      timeout_ms = 1000,
     },
     servers = {
       "lua_ls",
