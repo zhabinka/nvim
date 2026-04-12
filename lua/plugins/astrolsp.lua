@@ -10,9 +10,7 @@ return {
     },
     formatting = {
       format_on_save = {
-        enabled = true,
-        allow_filetypes = {},
-        ignore_filetypes = {},
+        enabled = false,
       },
       disabled = {},
       timeout_ms = 1000,
